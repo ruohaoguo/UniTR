@@ -1,6 +1,5 @@
 # UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection
 
---------------------------------------------------------------------------------
 
 ## Model
 \
