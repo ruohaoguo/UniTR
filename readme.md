@@ -152,12 +152,6 @@ Thanks [SSNM](https://github.com/cj4L/SSNM-Coseg), [Swin](https://github.com/mic
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-@inproceedings{guo2021sotr,
-  title={SOTR: Segmenting Objects with Transformers},
-  author={Guo, Ruohao and Niu, Dantong and Qu, Liao and Li, Zhenbo},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={7157--7166},
-  year={2021}
-}
+......
 ```
 
