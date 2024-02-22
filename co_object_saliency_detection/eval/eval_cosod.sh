@@ -1,0 +1,1 @@
+python main.py --methods cosod --datasets CoCA+CoSal2015+CoSOD3k --save_dir ./Result/Detail --root_dir ../
