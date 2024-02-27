@@ -151,6 +151,15 @@ Thanks [SSNM](https://github.com/cj4L/SSNM-Coseg), [Swin](https://github.com/mic
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-......
+@ARTICLE{10444934,
+  author={Guo, Ruohao and Ying, Xianghua and Qi, Yanyu and Qu, Liao},
+  journal={IEEE Transactions on Multimedia}, 
+  title={UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Object detection;Feature extraction;Task analysis;Transformers;Image segmentation;Semantics;Computer architecture;Co-object segmentation;Multi-modal salient object detection;Transformer;Deep learning},
+  doi={10.1109/TMM.2024.3369922}}
 ```
 
