@@ -1,4 +1,4 @@
-# UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection
+# UniTR: A Unified TRansformer-based Framework
 
 Created by Ruohao Guo, Xianghua Ying*, Yanyu Qi, Liao Qu
 
