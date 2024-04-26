@@ -158,11 +158,10 @@ Please consider citing our paper in your publications if the project helps your 
 @ARTICLE{10444934,
   author={Guo, Ruohao and Ying, Xianghua and Qi, Yanyu and Qu, Liao},
   journal={IEEE Transactions on Multimedia}, 
-  title={UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection}, 
+  title={UniTR: A Unified TRansformer-Based Framework for Co-Object and Multi-Modal Saliency Detection}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={26},
+  pages={7622-7635},
   doi={10.1109/TMM.2024.3369922}}
 ```
 
